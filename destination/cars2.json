@@ -1,0 +1,23 @@
+[ {
+  "carId" : "2bf81238-f052-44f0-bc40-6a819ffa2675",
+  "regNumber" : "R333",
+  "brand" : "Audi",
+  "model" : "fff",
+  "regDate" : "2010-02-02",
+  "owner" : {
+    "ownerId" : "9f5c96b6-e3a6-4fe5-8d21-7d3ec3425ac4",
+    "name" : "Mi",
+    "birthdate" : "1970-04-04"
+  }
+}, {
+  "carId" : "0ba2b88a-1567-48f5-b0a7-b9fdc156ce9a",
+  "regNumber" : "r564",
+  "brand" : "Lada",
+  "model" : "ffgf",
+  "regDate" : "2020-02-02",
+  "owner" : {
+    "ownerId" : "f730ed1c-8887-41b9-8180-6aebe4641538",
+    "name" : "iM",
+    "birthdate" : "1940-03-04"
+  }
+} ]
